@@ -23,7 +23,8 @@ button{
     font-weight: bold;
     border: none;
     border-radius: 2px;
-    /* margin-bottom: 2px; */
+    font-size: large;
+    margin-bottom: 2px;
 }
 
 #message-el{
